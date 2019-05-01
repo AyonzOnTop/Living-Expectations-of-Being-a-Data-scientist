@@ -1,4 +1,5 @@
-### Living-expectation-of-being-a-Data-scientist
+# Living-expectations-of-being-a-Data-scientist
+
 ## Installation 
 The code was written in Python 3 and requires the following packages: Pandas, Numpy, Collections, Matplotlib and Seaborn
 
