@@ -10,7 +10,7 @@ The motivation behind this analysis is to explore the living expectations in bei
 2. How satisfied are datascientist with their jobs compared to other kind  developers?
 3. How much do Data scientist from Africa earn annually?
 
-The full set of files related to this project are owned by Udacity, so they are not publicly available here.  However, you can see pieces of the analysis here.  This README also serves as a template for students to follow in creating their own project README files.
+
 
 ## File Descriptions
 All analysis is contained in the Jupyter notebook DS Survey Analysis.ipynb.
